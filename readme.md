@@ -2,7 +2,7 @@
 ## Usage
 
 ```
-$ git clone 
+$ git clone git@github.com:pkucmus/django-project-template.git
 $ django-admin startproject --template=django-project-template --extension py,md,Dockerfile {{ project_name }}
 ```
 
